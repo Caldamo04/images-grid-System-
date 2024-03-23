@@ -1,0 +1,73 @@
+body{
+  background-image: url("images10.jpeg");
+}
+#row1 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row2 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row3 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row4 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row5 img{
+  width: 90%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row6 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row7 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row8 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;;
+}
+#row9 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row10 img{
+  width: 80%;
+  height: 90%;
+  object-fit: cover;
+  border: 2px solid #FBF3D5;
+}
+#row11{
+  background-color: #CD8D7A;
+  border: 3px solid white;
+  padding: 10px;
+}
+#row12{
+  background-color: #B19470;
+  border: 3px solid white;
+  padding: 10px;
+}
